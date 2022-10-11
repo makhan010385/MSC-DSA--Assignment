@@ -38,10 +38,12 @@ newtuple = (tuple[4],tuple[5])
 print(newtuple)
 print(tuple.count(66))'''
 #5  
-keys = ['One', 'Two', 'Three']
-values = [1, 2, 3]
+'''keys = ['One', 'Two', 'Three']
+values = [1, 2, 3]'''
 #(i) from above two lists convert it into the dictionary.
 #(ii) Check if a value 2 exists in a dictionary.
+'''res = dict(zip(keys,values))
+print(res)'''
 
 
 
